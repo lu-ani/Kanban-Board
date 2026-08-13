@@ -163,16 +163,17 @@ Mobile Dark Mode:
 [⬆️ Back to Contents](#-Contents)
 
 ---
-
+<!--
 ## 🗣 Presentation
 
 [Also available here](./presentation)
 
-https://github.com/user-attachments/assets/599f1b02-79cd-4aa8-8b9a-eae263ec7be1
+https://github.com/user-attachments/assets/599f1b02-79cd-4aa8-8b9a-eae263ec7be1 
+
 
 [⬆️ Back to Contents](#-Contents)
 
----
+--->
 
 ### 👋 Happy Task Managing!
 
