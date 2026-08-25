@@ -7,7 +7,7 @@
 
 A modern, responsive **Task Manager Web App** built with modular JavaScript. Create, edit, delete, and prioritize your tasks in a sleek Kanban layout — with support for **dark mode**, **a mobile sidebar**, and **local storage** persistence.
 
-[Link to site](https://kanban-board-taupe-seven.vercel.app/)
+[Link to site](https://ludwe-kanban.vercel.app/)
 ---
 
 ## 🧭 Contents
